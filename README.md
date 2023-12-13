@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Inderajeet
 - 👀 I’m interested in creating new apps and learning new things.
 - 🌱 I’m currently learning Flutter and Python libraries - Numpy and Pandas
-- 💞️ I’m looking to collaborate on app development.
 - 📫 How to reach me inderajeetperiyasami210@gmail.com
 
 <!---
